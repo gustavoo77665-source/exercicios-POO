@@ -1,3 +1,5 @@
+package exercicio1;
+
 public class Cachorro {
     String nome;
     public void latir(){
