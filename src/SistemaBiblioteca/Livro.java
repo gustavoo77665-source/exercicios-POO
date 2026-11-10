@@ -33,6 +33,7 @@ public class Livro {
         this.autor = autor;
     }
 
+    
     public Boolean getDisponivel() {
         return disponivel;
     }
